@@ -5,7 +5,7 @@
         "key": "kunyu77",
         "name": "琨娱七七",
         "type": 3,
-        "api": "assets://js/kunyu77_open.js"
+        "api": "kunyu77_open.js"
       },
       {
           "key": "ffm3u8",
@@ -25,7 +25,7 @@
               "key": "bookan",
               "name": "博看听书",
               "type": 10,
-              "api": "assets://js/bookan_open.js"
+              "api": "bookan_open.js"
           }
       ]
   },
@@ -35,7 +35,7 @@
               "key": "copymanga",
               "name": "拷贝漫画",
               "type": 20,
-              "api": "assets://js/copymanga_open.js"
+              "api": "copymanga_open.js"
           }
       ]
   },
